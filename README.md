@@ -1,6 +1,7 @@
 # React Custom Chatbot 
 
-[![npm](https://img.shields.io/npm/v/react-custom-chatbot.svg)](https://www.npmjs.com/package/react-custom-chatbot)
+[![npm version](https://img.shields.io/npm/v/react-custom-chatbot)](https://www.npmjs.com/package/react-custom-chatbot)
+[![npm downloads](https://img.shields.io/npm/dt/react-custom-chatbot)](https://www.npmjs.com/package/react-custom-chatbot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A highly customizable, performant, and intelligent React chatbot component. Drop it into any project to add a powerful conversational AI interface, powered by **Google Gemini, OpenAI, Anthropic (Claude), and Groq**.
