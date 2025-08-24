@@ -1,4 +1,4 @@
-# Super Customizable React ChatBot
+# React Custom Chatbot 
 
 [![npm](https://img.shields.io/npm/v/react-custom-chatbot.svg)](https://www.npmjs.com/package/react-custom-chatbot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -19,6 +19,18 @@ This demo showcases:
 - Clean modal and widget views
 - Typing animation with customizable themes
 - Usage with OpenAI/Gemini/Claude/Groq APIs
+
+
+## 👨‍💻 Author
+
+<div align="left">
+
+### ✨ **Gaurav Rathod** ✨  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/gauravRathod674/react-custom-chatbot)  
+[![Profile](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github)](https://github.com/gauravRathod674)
+
+</div>
 
 ## ✨ Features
 
